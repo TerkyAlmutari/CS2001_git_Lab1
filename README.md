@@ -369,3 +369,9 @@ Student ID | Movie | Year of Release
 1945381 | Inside Out | 2015
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1834629 | Inception | 2010
+1834629 | The Dark Knight | 2008
+1834629 | Interstellar | 2014
+1834629 | Home Alone | 1990
+1834629 | Saving Private Ryan | 1998
+
